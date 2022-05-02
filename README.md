@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Nhi Nguyen 👋
 
-Here are some ideas to get you started:
-- 💙 I love programming, signing and dancing
+- 💙 I love programming, traveling, signing and dancing
 - 🌱 I’m currently learning iOS app development
 - 👯 I’m looking to collaborate on any mobile app projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nhi-nguyen-csis/)
