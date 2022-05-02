@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**nhi-nguyen-csis/nhi-nguyen-csis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 💙 I love programming, signing and dancing
 - 🌱 I’m currently learning iOS app development
